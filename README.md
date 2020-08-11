@@ -1,11 +1,5 @@
 # VBA Challenge - The VBA of Wall Street
 
-### Files
-
-* [Test Data](Resources/alphabetical_testing.xlsx) - Use this while developing your scripts.
-
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final report.
-
 ### Stock market analyst
 
 ![stock Market](Images/stockmarket.jpg)
